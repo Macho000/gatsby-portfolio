@@ -1,8 +1,8 @@
 module.exports = {
-  SiteTitle: 'Abdelali',
+  SiteTitle: 'Macho000',
   Sitelogo: '#',
-  SiteLogoText: 'Abdelali',
-  SiteAuthor: 'Abdelali Dahir',
+  SiteLogoText: 'Macho000',
+  SiteAuthor: 'Macho000',
   SiteDescription: 'Front End Developer',
   defaultDescription: 'Software engineer!', 
   githubApiQuery: `query ($number_of_repos: Int!) {
@@ -42,18 +42,12 @@ module.exports = {
     number_of_repos: 12,
   }, 
   SiteSocialLinks: {
-    twitter: 'https://twitter.com/AbdaliDahir',
-    github: 'https://github.com/AbdaliDahir',
-    linkedin: 'https://www.linkedin.com/in/abdelali-dahir-0b5344111/',
-  },
-  SiteAddress: {
-    city: 'Casablanca',
-    region: 'CurvaSud',
-    country: 'Morocco',
-    zipCode: 'ZipCode',
+    twitter: 'https://twitter.com/Machoo000',
+    github: 'https://github.com/Macho000',
+    Qiita: 'https://qiita.com/Macho000',
   },
   SiteContact: {
-    email: 'abdali.dahir@gmail.com',
+    email: 'kosukeaigo@gmail.com',
     phone: 'phone number',
   },
   SiteCopyright: '2020',

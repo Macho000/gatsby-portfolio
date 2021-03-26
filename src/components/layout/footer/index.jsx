@@ -19,13 +19,13 @@ const Footer = () => {
 								</li>
 							))}
 						</FooterSocialMedia>
-						<div>
+						{/* <div>
 							<p className="text-primary quote"> Ready to take the next step and work together? </p>
 							<ButtonDefault href={`mailto:${data.SiteContact.email}`}> Contact me </ButtonDefault>
-						</div>
+						</div> */}
 					</FooterBody>
 					<div className="box">
-						<SubRight> Good design doesn't date. Bad design does. </SubRight>
+						{/* <SubRight> Good design doesn't date. Bad design does. </SubRight> */}
 						<CopyRight className="text-dark">
 							© 
 							<span> {new Date().getFullYear()}, Built with {` `} 
