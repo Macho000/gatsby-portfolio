@@ -12,8 +12,7 @@ MemoQuiz
 --------------------------
 You can store any word. And later you can Quiz your stored words.
 
-[memoQuiz](https://apps.apple.com/us/app/自分で作る単語カードでクイズ-memoquiz/id1547735201)
+![memoQuiz](https://apps.apple.com/us/app/自分で作る単語カードでクイズ-memoquiz/id1547735201)
 
 
-> MemoQuiz
 
