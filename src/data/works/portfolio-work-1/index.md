@@ -4,7 +4,7 @@ tags: ['iOS', 'mobile', 'app']
 category: mobile-app
 image: './QuizImage.jpg'
 date: "2021-03-26T22:12:03.284Z"
-description: "About my App MemoQuiz"
+# description: "About my App MemoQuiz"
 ---
 
 
