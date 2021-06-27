@@ -99,14 +99,14 @@ module.exports = {
         icon: `src/assets/img/portfolio-icon.png`, // This path is relative to the root of the site.
       },
     },
-    {
-      resolve: `gatsby-source-github-api`,
-      options: {
-        token: process.env.GATSBY_GITHUB_API_TOKEN,
-        graphQLQuery: data.githubApiQuery,
-        variables: data.githubApiVariables,
-      },
-    },
+    // {
+    //   resolve: `gatsby-source-github-api`,
+    //   options: {
+    //     token: process.env.GATSBY_GITHUB_API_TOKEN,
+    //     graphQLQuery: data.githubApiQuery,
+    //     variables: data.githubApiVariables,
+    //   },
+    // },
     // https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics/
     // {
     //   resolve: `gatsby-plugin-google-analytics`,
