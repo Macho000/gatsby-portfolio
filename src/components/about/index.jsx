@@ -27,8 +27,8 @@ const About = () => {
             <div>
               <Title> Macho000 </Title>
               <Text> I'm 	first year graduate student from <b className="text-primary lined-link">Shizuoka University　Informatics</b> </Text>
-              <ResumeButton href="https://docs.google.com/document/d/e/2PACX-1vTjLcGL5a4Iu0w4tgeDSvUPh9uaDIoN3blJdtSu51NvaNVLq4XxzUgP98OpQpPvkbicwNK73yWLOiMl/pub" target="_blank"> CV_English </ResumeButton>
-              <ResumeButton href="https://docs.google.com/document/d/e/2PACX-1vSUgwlRGZ3yUSiH3LyMOz0tlVT6RGP7FzbnlCIa3ge79X9uAPtXaD2RRPLOzjFkZ-tNZ3RLScFskSnO/pub" target="_blank"> CV_日本語 </ResumeButton>
+              <ResumeButton href="https://docs.google.com/document/d/e/2PACX-1vTjLcGL5a4Iu0w4tgeDSvUPh9uaDIoN3blJdtSu51NvaNVLq4XxzUgP98OpQpPvkbicwNK73yWLOiMl/pub" target="_blank"> Resume </ResumeButton>
+              <ResumeButton href="https://docs.google.com/document/d/e/2PACX-1vSUgwlRGZ3yUSiH3LyMOz0tlVT6RGP7FzbnlCIa3ge79X9uAPtXaD2RRPLOzjFkZ-tNZ3RLScFskSnO/pub" target="_blank"> 履歴書 </ResumeButton>
             </div>
           </AboutSection>
         </ContainerLayout>
